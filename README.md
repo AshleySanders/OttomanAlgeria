@@ -20,7 +20,7 @@ Published in four volumes between 1890 and 1897, the *Sicill-i Osmani*, "The Ott
 
 Consequently, I am keeping data gleaned from the *Sicill-i Osmani* separate from the main data set. I will also compare and correct this data based on a review of the Ottoman sources that have survived from Algeria. These archival documents will also be used to augment the original data set on Constatine's governors, as well as the Constantinian social network data that will be uploaded to this repository. 
 
-The Ottoman archival documents used in this study are copies of the originals, which are currently held in the National Archives of Algeria. These are the only Ottoman administrative records that remain following the destruction of a number of documents during the French conquest and colonization (1830-1962). Microfilm copies may also be found in Archives Nationales de France in Series MI: "Archives turques d'Algérie, XVIIIe-XIXe s. (Code: 228 Mi, 1-49). (For a history of these records, see Temimi, 1979.) 
+The Ottoman archival documents used in this study are copies of the originals, which are currently held in the National Archives of Algeria. These are the only Ottoman administrative records that remain following the destruction of a number of documents during the French conquest and colonization (1830-1962). Microfilm copies may also be found in Archives Nationales de France in Series MI: "Archives turques d'Algérie, XVIIIe-XIXe s." (Code: 228 Mi, 1-49). (For a history of these records, see Temimi, 1979.) 
 
 -----
 
