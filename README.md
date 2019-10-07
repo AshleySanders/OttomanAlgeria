@@ -26,34 +26,34 @@ The Ottoman archival documents used in this study are copies of the originals, w
 
 ### Bibliography
 
-Ahmed ben Omar ben Ahmad ben Mohammed ben El Attar El Mobarek El Qosantiny, and A Dournon. 1913. Traduction du Kitâb Tarîkh Qosantîna. Alger: Adolphe Jourdan.
+Ahmed ben Omar ben Ahmad ben Mohammed ben El Attar El Mobarek El Qosantiny, and A Dournon. 1913. *Traduction du Kitâb Tarîkh Qosantîna.* Alger: Adolphe Jourdan.
 
-Arvieux, Laurent d’. 1735. Mémoires Du Chevalier d’Arvieux, Envoyé Extraordinaire Du Roy à La Porte, Consul d’Alep, d’Alger, de Tripoli et Autres Échelles Du Levant : Contenant Ses Voyages à Constantinople, Dans l’Asie, La Syrie, La Palestine, l’Égypte et La Barbarie. Vol. 5. 5 vols. Paris: C.-J.-B. Delespine.
+Arvieux, Laurent d’. 1735. *Mémoires Du Chevalier d’Arvieux, Envoyé Extraordinaire Du Roy à La Porte, Consul d’Alep, d’Alger, de Tripoli et Autres Échelles Du Levant : Contenant Ses Voyages à Constantinople, Dans l’Asie, La Syrie, La Palestine, l’Égypte et La Barbarie.* Vol. 5. 5 vols. Paris: C.-J.-B. Delespine.
 
-El Mobarek, Ahmed. 1913. “Kitab Tarikh Qosantina.” Revue Africaine : Journal Des Travaux de La Société Historique Algérienne 57: 265–301.
+El Mobarek, Ahmed. 1913. “Kitab Tarikh Qosantina.” *Revue Africaine : Journal Des Travaux de La Société Historique Algérienne* 57: 265–301.
 
-“Ernest Mercier (1840-1907).” n.d. data.bnf.fr. Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12384339f.>
+“Ernest Mercier (1840-1907).” n.d. *data.bnf.fr.* Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12384339f.>
 
-“Eugène Vayssettes (1826-1899).” n.d. data.bnf.fr. Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb14459962n.>
+“Eugène Vayssettes (1826-1899).” n.d. *data.bnf.fr.* Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb14459962n.>
 
-Gaïd, Mouloud. 1978. Chronique des beys de Constantine. Algeria: Office des publications universitaires.
+Gaïd, Mouloud. 1978. *Chronique des beys de Constantine.* Algeria: Office des publications universitaires.
 
-Haëdo, Diego de. 1870. Topographie et histoire générale d’Alger. Edited by Jocelyne Dakhlia. Translated by Adrien Berbrugger and Docteur Monnereau. Saint-Denis: Editions Bouchène.
+Haëdo, Diego de. 1870. *Topographie et histoire générale d’Alger.* Edited by Jocelyne Dakhlia. Translated by Adrien Berbrugger and Docteur Monnereau. Saint-Denis: Editions Bouchène.
 
-“Jacques Philippe Laugier de Tassy.” n.d. data.bnf.fr. Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb124249678.>
+“Jacques Philippe Laugier de Tassy.” n.d. *data.bnf.fr.* Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb124249678.>
 
-“Laurent-Charles Féraud (1829-1888).” n.d. data.bnf.fr. Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12171088j.>
+“Laurent-Charles Féraud (1829-1888).” n.d. *data.bnf.fr.* Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12171088j.>
 
-Mercier, Ernest. 1903. Histoire de Constantine. Constantine, Algeria: J. Marle et F. Biron.
+Mercier, Ernest. 1903. *Histoire de Constantine.* Constantine, Algeria: J. Marle et F. Biron.
 
-“Mouloud Gaid (1916-?).” n.d. data.bnf.fr. Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12037561b.>
+“Mouloud Gaid (1916-?).” n.d. *data.bnf.fr.* Accessed May 21, 2019. <https://data.bnf.fr/ark:/12148/cb12037561b.>
 
-Tassy, Laugier de. 1725. Histoire du royaume d’Alger. Amsterdam: Chez Henri du Sauzet.
+Tassy, Laugier de. 1725. *Histoire du royaume d’Alger.* Amsterdam: Chez Henri du Sauzet.
 
-Vayssettes, Eugène. 1867. Histoire de Constantine Sous La Domination Turque de 1517 à 1837. Bibliothèque d’histoire Du Maghreb. Saint-Denis: Bouchene.
+Vayssettes, Eugène. 1867. *Histoire de Constantine Sous La Domination Turque de 1517 à 1837.* Bibliothèque d’histoire Du Maghreb. Saint-Denis: Bouchene.
 
 Temimi, Abdeljelil. 1978. *Le Beylik De Constantine Et Hadj Ahmed Bey (1830-1837).* Vol. 1. Publications de La Revue d’histoire Maghrébine. Tunis: Revue d’histoire maghrébine.
 
 Temimi, Abdeljelil. 1979. “Sommaire Des Registres Arabes et Turcs d’Alger.” Tunis: Revue d’Histoire Maghrebine.
 
-Zeiller, Jacques. 1945. “Un Historien de l’Afrique du Nord: Ernest Mercier.” Journal des Savants 3 (1): 166–70.
+Zeiller, Jacques. 1945. “Un Historien de l’Afrique du Nord: Ernest Mercier.” *Journal des Savants* 3 (1): 166–70.
