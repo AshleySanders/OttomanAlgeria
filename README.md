@@ -14,7 +14,7 @@ Born into a family of notable Algerian writers and administrators, Ṣāliḥ Ib
 
 ### Ottoman Records
 
-Published in four volumes between 1890 and 1897, the *Sicill-i Osmani*, "The Ottoman National Biography" is the most detailed and inclusive collection of biographical data on Ottoman leaders. Nevertheless, despite of compiler Mehmed Süreyya's aims, it is far from comprehensive. Eminent men from the early period of the Ottoman Empire, particularly the fourteenth through the sixteenth centuries, receive scant attention. Notable Ottoman prosopographer, İ. Metin Kunt, remarks:
+Published in four volumes between 1890 and 1897, the *Sicill-i Osmani*, "The Ottoman National Biography" is the most detailed and inclusive collection of biographical data on Ottoman leaders. Nevertheless, despite compiler Mehmed Süreyya's aims, it is far from comprehensive. Eminent men from the early period of the Ottoman Empire, particularly the fourteenth through the sixteenth centuries, receive scant attention. Notable Ottoman prosopographer, İ. Metin Kunt, remarks:
 
 > mostly for the earlier periods, the biographical notes for each entry are usually no more than a few lines; the scanty information provided is also often wrong in one way or another. In view of the defective character of Sicill-i Osmani, for a sound and valid study it should be used only after it has been corrected and supplemented by information gleaned from other sources, such as chronicles and, whenever possible, archival documents (Kunt, 1983, p. xix).
 
