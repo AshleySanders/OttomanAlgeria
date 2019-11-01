@@ -1,5 +1,9 @@
 # OttomanAlgeria
-This repository contains data sets related to Algerian society and politics between 1500 and 1837.
+This repository contains data sets related to Algerian society and politics between 1500 and 1837. 
+
+The *GovData* directory contains the data set in both CSV and Excel file formats, as well as a code book that provides a description for each variable, notes, and relevant citations. The Excel file contains the list of simplified codes and code book as separate sheets.
+
+The *OttAlg-NetData* contains the nodes and edges lists as CSV files for the Ottoman-Algerian social network, as well as a code book for the data in both CSV and Excel file formats.
 
 ## Citations
 **Please cite the "Ottoman-Algeria-Constantine_Governors-Data" data set as follows:** <br></br>
