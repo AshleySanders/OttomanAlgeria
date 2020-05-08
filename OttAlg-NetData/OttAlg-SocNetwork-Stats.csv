@@ -1,0 +1,160 @@
+Id,Label,timeset,arabic name,gender,ethnicity,named,tribal affiliation,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Clustering Coefficient,componentnumber,modularity_class,clustering,triangles,eigencentrality,betweennesscentrality2,bridgingcoefficient,bridgingcentrality
+32,Salah Bey,,صالح بن مصطفى باي,Man,Ottoman,Named,,20,20,4,0.567568,0.700397,0.058615,0.010526,6,17,0.010526,2,1,0.058615,0.003291,0.000193
+7,Ahmed-El-Kolli,,أحمد باي بن علي القلي من مدينة القل,Man,Ottoman,Named,,9,9,4,0.47191,0.559524,0.027332,0.25,6,3,0.25,9,0.726125,0.027332,0.044872,0.001226
+8,Bou-Henak,,حسين باي بن حسن بوحنك,Man,Ottoman,Named,,6,6,3,0.512195,0.603175,0.012054,0,5,8,0,0,0.133112,0.012054,0.05036,0.000607
+4,Daughter of Ahmed-El-Kolli,,,Woman,Kulughlu,Referenced,Muqrani,4,4,4,0.442105,0.494048,0.01161,0.333333,6,3,0.333333,2,0.413476,0.01161,0.251397,0.002919
+23,Ali-Pacha El Tunisi,,,Man,Ottoman,Named,,7,7,4,0.488372,0.611111,0.010804,0.142857,5,16,0.142857,3,0.167212,0.010804,0.051948,0.000561
+154,Mohammed or Hammoud ben Salah Bey,,,Man,Kulughlu,Named,,2,2,5,0.385321,0.433333,0.009433,0,6,12,0,0,0.220628,0.009433,1.304348,0.012304
+37,Oum-Hani,,,Woman,Ottoman-European,Named,,6,6,3,0.479167,0.572464,0.007686,0.2,2,5,0.2,3,0.200375,0.007686,0.076923,0.000591
+50,Redjeb-Bey,,رجب بن فرحات باي,Man,Ottoman,Named,,6,6,4,0.5,0.59058,0.007686,0.2,2,15,0.2,3,0.239969,0.007686,0.089552,0.000688
+51,Ferhat Bey,,فرحات باي,Man,Ottoman,Named,,9,9,4,0.469388,0.615942,0.007485,0.111111,2,15,0.111111,4,0.270108,0.007485,0.022989,0.000172
+33,Ahmed ben Sakheri,,,Man,Algerian,Named,Daouaouida,6,6,4,0.442308,0.550725,0.007028,0.2,2,5,0.2,3,0.177813,0.007028,0.074074,0.000521
+126,Mohammed Chérif,,,Man,Algerian,Named,Daouaouida,7,7,5,0.344262,0.435714,0.006531,0.380952,6,3,0.380952,8,0.464943,0.006531,0.061813,0.000404
+95,Sheikh El-Arab Ali-Bou-Akkaz,,,Man,Algerian,Named,Daouaouida,2,2,5,0.318182,0.355556,0.00645,0,6,3,0,0,0.092173,0.00645,0.666667,0.0043
+58,Daughter of Brahim ben Bou-Aziz,,,Woman,Algerian,Referenced,Henanecha,3,3,5,0.378378,0.437302,0.00645,0.333333,6,17,0.333333,1,0.235657,0.00645,0.31746,0.002048
+77,Daughter of Salah Bey,,,Woman,Kulughlu,Referenced,,2,2,5,0.378378,0.427381,0.00645,0,6,17,0,0,0.215258,0.00645,0.909091,0.005864
+83,Moustafa-Engliz-Bey,,الحاج مصطفى,Man,Ottoman,Named,,3,3,6,0.287671,0.338095,0.00645,0.333333,6,12,0.333333,1,0.068585,0.00645,0.222222,0.001433
+43,Daughter of Bou Henak,,,Woman,Kulughlu,Referenced,,3,3,4,0.396226,0.472222,0.005483,0.333333,5,8,0.333333,1,0.079202,0.005483,0.444444,0.002437
+27,Azîza-Bey,,,Woman,Algerian,Named,,4,4,5,0.377049,0.472464,0.003736,0,2,15,0,0,0.108471,0.003736,0.1,0.000374
+24,Deikra,,,Woman,Algerian,Referenced,Muqrani,3,3,5,0.33871,0.39127,0.003306,0.333333,6,3,0.333333,1,0.23697,0.003306,0.244898,0.00081
+3,Daughter of the Ben Gana,,,Woman,Algerian,Referenced,Ben Gana,2,2,5,0.328125,0.372222,0.003306,0,6,3,0,0,0.151749,0.003306,0.45,0.001488
+57,Farhate,,,Man,Algerian,Named,,2,2,6,0.245614,0.282143,0.003306,0,6,3,0,0,0.026808,0.003306,0.333333,0.001102
+78,El-Yezid,,,Man,Moroccan,Named,,2,2,6,0.28,0.319048,0.003306,0,6,17,0,0,0.050874,0.003306,0.333333,0.001102
+145,Daughter2 of Salah Bey,,,Woman,Ottoman-European,Referenced,,2,2,5,0.371681,0.421429,0.003306,0,6,17,0,0,0.212515,0.003306,0.47619,0.001574
+46,Mourad,,مراد باي,Man,Ottoman,Named,,3,3,4,0.425926,0.496377,0.003238,0.333333,2,15,0.333333,1,0.138532,0.003238,0.428571,0.001388
+131,Wife of Hamouda-Bey,,,Woman,Algerian,Inference,,4,4,5,0.362069,0.471429,0.003064,0.333333,5,16,0.333333,2,0.09547,0.003064,0.152174,0.000466
+115,Deïkha,,,Woman,Kulughlu,Named,,4,4,5,0.308824,0.41746,0.002338,0.333333,5,8,0.333333,2,0.065281,0.002338,0.115385,0.00027
+110,Daughter of Bou-Diaf,,,Woman,Algerian,Referenced,Awlâd Balqâsam,3,3,4,0.368421,0.448413,0.002177,0.333333,5,8,0.333333,1,0.068927,0.002177,0.333333,0.000726
+112,Redjradja,,,Woman,Algerian,Named,Ouled-Haddad,4,4,5,0.328571,0.430435,0.001814,0.333333,2,5,0.333333,2,0.096062,0.001814,0.115385,0.000209
+88,Kheir-Ed-Dine-Bey,,خير الدين باي,Man,Unknown,Named,,2,2,4,0.338235,0.398551,0.001774,0,2,5,0,0,0.057241,0.001774,0.428571,0.00076
+52,Daughter of Soultan ben Menasser,,,Woman,Algerian,Referenced,Henanecha,3,3,5,0.35,0.439683,0.001613,0.333333,5,16,0.333333,1,0.074703,0.001613,0.202899,0.000327
+99,Bou-Aziz,,,Man,Algerian,Named,Henanecha,5,5,2,0.857143,0.916667,0.001048,0.1,3,4,0.1,1,0.053391,0.001048,0.057143,0.00006
+93,Keliane Hassein-Bey Bou Kemia,,عليان باي بوخيمة,Man,Ottoman,Named,,4,4,2,0.75,0.833333,0.000968,0,7,7,0,0,0.036764,0.000968,0.075,0.000073
+136,Wife of Ali ben Salah Bey,,,Woman,Algerian,Inference,,4,4,2,0.7,0.785714,0.000968,0.333333,8,9,0.333333,2,0.062163,0.000968,0.157895,0.000153
+70,M’hammed-Tchaker-Bey,,محمد شاكر باي,Man,Ottoman,Named,,4,4,3,0.636364,0.761905,0.000887,0.166667,8,9,0.166667,1,0.051745,0.000887,0.090909,0.000081
+9,Mohammed ben Farhat,,محمد بن فرحات باي,Man,Algerian,Named,,3,3,5,0.359375,0.452174,0.000847,0.333333,2,15,0.333333,1,0.120744,0.000847,0.387097,0.000328
+16,Hossein Bey-Zereg-Ainou,,حسين بن زرق عينو,Man,Ottoman,Named,,3,3,5,0.304348,0.393651,0.000726,0.666667,5,8,0.666667,2,0.059294,0.000726,0.307692,0.000223
+1,Sister-in-law of Bou-Diaf,,,Woman,Algerian,Referenced,,2,2,4,0.362069,0.424603,0.000726,0,5,8,0,0,0.055692,0.000726,1,0.000726
+84,Ibrahim Bey Ben Ali El-Critli ,,إبراهيم باي القرتلي,Man,Ottoman,Named,,4,4,2,0.833333,0.9,0.000645,0.166667,1,1,0.166667,1,0.040387,0.000645,0.1,0.000065
+108,Daughter of Si Sadira,,,Woman,Algerian,Referenced,,3,3,2,0.666667,0.75,0.000645,0.333333,7,7,0.333333,1,0.037048,0.000645,0.266667,0.000172
+34,Tourkia,,,Woman,Kulughlu,Named,,3,3,3,0.538462,0.666667,0.000484,0.333333,8,9,0.333333,1,0.042054,0.000484,0.190476,0.000092
+35,Son of Redjeb,,,Man,Ottoman-European,Referenced,Daouaouida,3,3,4,0.403509,0.467391,0.00047,0.666667,2,5,0.666667,2,0.130683,0.00047,0.4,0.000188
+90,Daughter of Bou-Aziz,,,Woman,Algerian,Referenced,Henanecha,2,2,2,0.6,0.666667,0.000403,0,3,4,0,0,0.026412,0.000403,0.416667,0.000168
+105,Fatima,,,Woman,Algerian,Named,,4,4,1,1,1,0.000403,0.166667,9,6,0.166667,1,0.03703,0.000403,0.083333,0.000034
+41,Moustafa,,,Man,Ottoman,Named,,2,2,2,0.625,0.7,0.000323,0,1,1,0,0,0.022223,0.000323,0.4,0.000129
+117,Wife of Bou-Diaf,,,Woman,Algerian,Inference,,3,3,5,0.283784,0.373016,0.000121,0.333333,5,8,0.333333,1,0.051743,0.000121,0.25,0.00003
+134,Turkish Wife of Ahmed-El-Kolli,,,Woman,Ottoman,Inference,,5,5,5,0.33871,0.411905,0.000081,0.7,6,3,0.7,7,0.422815,0.000081,0.159494,0.000013
+148,Sheikh Farhate ben Said,,,Man,Algerian,Named,Bu' Akkaz Family,2,2,1,1,1,0.000081,0,15,19,0,0,0.010143,0.000081,0.25,0.00002
+21,Achour,,,Man,Algerian,Named,,1,1,1,1,1,0,0,0,0,0,0,0.00428,0,1,0
+92,Sheikh des Ourzifa,,,Man,Algerian,Named,,1,1,1,1,1,0,0,0,0,0,0,0.00428,0,1,0
+102,Ben-Kara-Ali,,,Man,Ottoman,Named,,1,1,3,0.5,0.566667,0,0,1,1,0,0,0.016524,0,4,0
+6,El-Guidoum,,,Man,Algerian,Named,Daouaouida,2,2,4,0.365079,0.427536,0,1,2,5,1,1,0.09678,0,1.5,0
+18,Ahmed ben Nacer,,,Man,Algerian,Named,Henanecha,1,1,3,0.5,0.555556,0,0,3,4,0,0,0.020508,0,5,0
+123,Mohammed ben Hassein-Bey,,,Man,Unknown,Named,,3,3,1,1,1,0,1,4,2,1,3,0.055731,0,0.333333,0
+20,Mahmoud ben Hassein Bey,,,Man,Unknown,Named,,3,3,1,1,1,0,1,4,2,1,3,0.055731,0,0.333333,0
+72,Ali-Bitchenin,,,Man,Algerian,Named,,1,1,6,0.277108,0.324638,0,0,2,15,0,0,0.029121,0,4,0
+119,Mohammed Bey El-Tunisi,,,Man,Tunisian,Named,,2,2,5,0.33871,0.407937,0,1,5,16,1,1,0.065771,0,0.777778,0
+25,Son1 of Salah Bey,,,Man,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+28,Female cousin of Bou-Kemia,,,Woman,Algerian,Referenced,,1,1,3,0.461538,0.527778,0,0,7,7,0,0,0.015572,0,4,0
+75,Mohammed Bou-Gouffa,,,Man,Algerian,Named,Daouaouida,1,1,3,0.5,0.555556,0,0,3,4,0,0,0.020508,0,5,0
+144,al-hadj ibn Bou-Zeyyid al Muqrani,,,Man,Algerian,Named,,1,1,6,0.254545,0.28254,0,0,6,3,0,0,0.047895,0,3,0
+122,Mohammed Ben Gana,,,Man,Algerian,Named,Ben Gana,1,1,6,0.248521,0.274603,0,0,6,3,0,0,0.031679,0,2,0
+19,Soultan ben Menasser,,,Man,Algerian,Named,Henanecha,1,1,6,0.2625,0.311905,0,0,5,16,0,0,0.02203,0,3,0
+66,Ali ben Salah Bey,,علي بن صالح باي,Man,Kulughlu,Named,,2,2,3,0.5,0.595238,0,1,8,9,1,1,0.037189,0,0.857143,0
+96,Brahim ben Bou-Aziz,,,Man,Algerian,Named,Henanecha,2,2,6,0.278146,0.317857,0,1,6,17,1,1,0.067114,0,0.6,0
+140,Wife of Brahim ben Bou-Aziz,,,Woman,Algerian,Inference,,2,2,6,0.278146,0.317857,0,1,6,17,1,1,0.067114,0,0.6,0
+125,Ahmed-ben-Ramdan,,,Man,Algerian,Named,,1,1,6,0.277108,0.324638,0,0,2,15,0,0,0.029121,0,4,0
+74,Euldjia bint Bou Aziz ben Nacer,,,Woman,Algerian,Named,Henanecha,2,2,3,0.545455,0.638889,0,1,3,4,1,1,0.033188,0,0.714286,0
+141,Wife of Bou-Aziz,,,Woman,Algerian,Inference,,2,2,3,0.545455,0.638889,0,1,3,4,1,1,0.033188,0,0.714286,0
+87,Safia,,,Woman,European,Named,,2,2,4,0.333333,0.391304,0,1,2,5,1,1,0.083081,0,1,0
+114,Fatma El Belilia bint Redradja,,,Woman,Algerian,Named,Daouaouida,1,1,6,0.25,0.301449,0,0,2,5,0,0,0.027118,0,4,0
+118,Sheikh El-Arab Debbah,,,Man,Algerian,Referenced,,2,2,2,0.666667,0.75,0,1,9,6,1,1,0.026837,0,0.666667,0
+138,Wife of Sheikh Al-Arab Debbah,,,Woman,Algerian,Inference,,2,2,2,0.666667,0.75,0,1,9,6,1,1,0.026837,0,0.666667,0
+109,Si Sadira,,,Man,Algerian,Named,Awlâd Balqâsam,2,2,3,0.461538,0.583333,0,1,7,7,1,1,0.025632,0,0.6,0
+139,Wife of Si Sadira,,,Woman,Algerian,Inference,,2,2,3,0.461538,0.583333,0,1,7,7,1,1,0.025632,0,0.6,0
+62,Bou-Diaf,,,Man,Algerian,Named,,2,2,5,0.28,0.349206,0,1,5,8,1,1,0.038544,0,0.75,0
+36,Ahmed-Bey ben Farhate,, أحمد بن فرحات باي,Man,Kulughlu,Named,,2,2,5,0.377049,0.443478,0,1,2,15,1,1,0.125365,0,1.8,0
+39,Abd-Er-Rahmane ben Farhate-Bey,,عبد الرحمان بن فرحات باي,Man,Ottoman,Named,,1,1,5,0.323944,0.37971,0,0,2,15,0,0,0.066774,0,9,0
+54,Ali,,,Man,Ottoman,Named,,1,1,3,0.461538,0.527778,0,0,7,7,0,0,0.015572,0,4,0
+101,Baba-Hassan,,,Man,,Named,,1,1,3,0.416667,0.5,0,0,1,1,0,0,0.010022,0,2,0
+69,Chabane-Bey,,شعبان باي,Man,Ottoman,Named,,1,1,4,0.411765,0.488095,0,0,8,9,0,0,0.018879,0,4,0
+98,Tatar Mohammed,,,Man,,Named,,1,1,4,0.411765,0.488095,0,0,8,9,0,0,0.018879,0,4,0
+38,Ali-Khodja-Bey,,علي خوجة باي,Man,Ottoman,Named,,1,1,5,0.323944,0.37971,0,0,2,15,0,0,0.066774,0,9,0
+2,Hassouna ben Bou-Henak,,,Man,Kulughlu,Named,,1,1,4,0.344262,0.384921,0,0,5,8,0,0,0.038508,0,6,0
+5,Nacer,,,Man,Algerian,Named,Muqrani,2,2,1,1,1,0,1,10,10,1,1,0.017948,0,0.5,0
+89,Amokrane,,,Man,Algerian,Named,Muqrani,2,2,1,1,1,0,1,10,10,1,1,0.017948,0,0.5,0
+128,Wife of Amokrane,,,Woman,Algerian,Inference,,2,2,1,1,1,0,1,10,10,1,1,0.017948,0,0.5,0
+13,Mourad ben Ali Pacha El Tunisi,,,Man,Kulughlu,Named,Henanecha,2,2,5,0.344262,0.415873,0,1,5,16,1,1,0.068884,0,1.05,0
+14,Omar ben Abd-el Rahman Bash-Agha,,عمر باي بن عبد الرحمان,Man,Ottoman,Named,,1,1,1,1,1,0,0,11,11,0,0,0.00428,0,1,0
+81,Abd-el-Rahman Dali Bey,,عبد الرحمان دالي باي,Man,Ottoman,Named,,1,1,1,1,1,0,0,11,11,0,0,0.00428,0,1,0
+91,Hassein-Bey,,,Man,Unknown,Named,,3,3,1,1,1,0,1,4,2,1,3,0.055731,0,0.333333,0
+129,Wife of Hassein-Bey,,,Woman,Unknown,Inference,,3,3,1,1,1,0,1,4,2,1,3,0.055731,0,0.333333,0
+22,Younès,,,Man,Tunisian,Named,,2,2,5,0.35,0.42381,0,1,5,16,1,1,0.074767,0,1.272727,0
+26,Ali ben Moustafa-Engliz-Bey,,,Man,Kulughlu,Referenced,,2,2,7,0.225806,0.264909,0,1,6,12,1,1,0.030445,0,0.6,0
+71,Farhate ben Ahmed ben Sakheri,,,Man,Algerian,Named,Daouaouida,2,2,5,0.319444,0.386957,0,1,2,5,1,1,0.073376,0,1.2,0
+40,Ali ben Hamouda-Bey,,علي بن حمودة باي,Man,Kulughlu,Named,,2,2,6,0.272727,0.347619,0,1,5,16,1,1,0.041642,0,0.666667,0
+31,Hamouda-Bey,,حمودة باي,Man,Algerian,Named,,2,2,6,0.272727,0.347619,0,1,5,16,1,1,0.041642,0,0.666667,0
+42,Ismaïl ben Ibrahim Bey Ben Ali El-Critli ,,,Man,Kulughlu,Named,,2,2,3,0.555556,0.666667,0,1,1,1,1,1,0.027965,0,0.666667,0
+132,Wife of Ibrahim Bey Ben Ali El-Critli ,,,Woman,Algerian,Inference,,2,2,3,0.555556,0.666667,0,1,1,1,1,1,0.027965,0,0.666667,0
+137,Wife of Mourad,,,Woman,Ottoman,Inference,,2,2,5,0.359375,0.425362,0,1,2,15,1,1,0.101431,0,1.125,0
+53,Hassen ben Bou Henak,,,Man,Kulughlu,Named,,1,1,4,0.344262,0.384921,0,0,5,8,0,0,0.038508,0,6,0
+127,Ali-Bey ben Bouzid,,,Man,Algerian,Named,,2,2,1,1,1,0,1,12,13,1,1,0.017948,0,0.5,0
+94,Bouzid,,,Man,Ottoman,Named,,2,2,1,1,1,0,1,12,13,1,1,0.017948,0,0.5,0
+133,Wife of Bouzid,,,Woman,Algerian,Inference,,2,2,1,1,1,0,1,12,13,1,1,0.017948,0,0.5,0
+10,Osman-Bey,,عثمان باي بن محمد,Man,Kulughlu,Named,,2,2,1,1,1,0,1,13,14,1,1,0.017948,0,0.5,0
+97,Mohammed-El-Kebir,,,Man,Ottoman,Named,,2,2,1,1,1,0,1,13,14,1,1,0.017948,0,0.5,0
+60,Wife of Mohammed-El-Kebir,,,Woman,Algerian,Inference,,2,2,1,1,1,0,1,13,14,1,1,0.017948,0,0.5,0
+49,Hassein Bey Ben Salah Bey,,حسين باي بن صالح,Man,Ottoman,Named,,2,2,5,0.368421,0.41746,0,1,6,17,1,1,0.252208,0,0.909091,0
+100,Sultan de Maroc,,,Man,Moroccan,Referenced,,1,1,7,0.219895,0.245068,0,0,6,17,0,0,0.013827,0,2,0
+17,El-Hadj-Ahmed,,أحمد باي بن محمد الشريف,Man,Kulughlu,Named,Ben Gana,2,2,6,0.259259,0.308333,0,1,6,3,1,1,0.118631,0,0.777778,0
+113,Mohamed ben Ahmed ben Sakheri,,,Man,Algerian,Named,Daouaouida,2,2,5,0.319444,0.386957,0,1,2,5,1,1,0.073376,0,1.2,0
+116,Wife of Moustafa-Engliz-Bey,,,Woman,Algerian,Inference,,2,2,7,0.225806,0.264909,0,1,6,12,1,1,0.030445,0,0.6,0
+104,Hamoud ,,,Man,Kulughlu,Named,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+106,Wife1 of Ferhat Ben Mourad,,,Woman,Ottoman,Inference,,2,2,5,0.343284,0.415942,0,1,2,15,1,1,0.0977,0,1.125,0
+107,Wife2 of Ferhat Ben Mourad,,,Woman,Ottoman,Inference,,2,2,5,0.377049,0.443478,0,1,2,15,1,1,0.125365,0,1.8,0
+121,Mourad Bey El Tunisi,,,Man,Tunisian,Named,,2,2,5,0.33871,0.407937,0,1,5,16,1,1,0.065771,0,0.777778,0
+124,Mahmoud ben M’hammed-Tchaker-Bey,,,Man,Kulughlu,Named,,2,2,3,0.538462,0.619048,0,1,8,9,1,1,0.040529,0,1,0
+120,Rokeia,,,Woman,Algerian,Named,,2,2,6,0.259259,0.308333,0,1,6,3,1,1,0.118631,0,0.777778,0
+103,Constantinian woman,,,Woman,Algerian,Referenced,,2,2,5,0.368421,0.41746,0,1,6,17,1,1,0.252208,0,0.909091,0
+142,Hassan Basha,,,Man,Kulughlu,Named,,1,1,5,0.255556,0.294203,0,0,2,5,0,0,0.016486,0,2,0
+15,Wives of Kelian Hassein Bey Bou-Kemia,,,Woman,Algerian,Referenced,,1,1,3,0.461538,0.527778,0,0,7,7,0,0,0.015572,0,4,0
+44,El-Hadj,,,Man,Algerian,Referenced,Muqrani,1,1,4,0.368421,0.452381,0,0,8,9,0,0,0.015539,0,3,0
+56,Bou-Remane,,,Man,Algerian,Named,,1,1,3,0.4,0.472222,0,0,3,4,0,0,0.011057,0,2,0
+59,trois de ses femmes,,,Woman,Algerian,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+76,Mebarka,,,Woman,Algerian,Named,Ben Gana,1,1,7,0.198113,0.222506,0,0,6,3,0,0,0.009781,0,2,0
+12,Abd-Allah-Bey,,عبد الله باي اسماعيل,Man,Ottoman,Named,,1,1,6,0.238636,0.294444,0,0,5,8,0,0,0.021513,0,4,0
+63,Moustafa-El-Ouznadji,,مصطفى الوزناجي,Man,Algerian,Named,,1,1,2,0.571429,0.625,0,0,9,6,0,0,0.015619,0,4,0
+153,Si Brahim Ben Djellab de Touggourt,,,Man,Algerian,Named,Ben Djellab,1,1,2,0.571429,0.625,0,0,9,6,0,0,0.015619,0,4,0
+80,Ibrahim bey El Euldj,,إبراهيم العلج باي,Man,European,Named,,1,1,1,1,1,0,0,14,18,0,0,0.00428,0,1,0
+143,El Euldj Ali Pasha,,,Man,European,Named,,1,1,1,1,1,0,0,14,18,0,0,0.00428,0,1,0
+146,Ahmed Zouaoui Ben Djelloul,,,Man,Algerian,Named,,1,1,6,0.272727,0.3,0,0,6,17,0,0,0.043973,0,2,0
+147,Aisha bint Hossein Bey Zereg Ainou,,,Woman,Kulughlu,Named,,2,2,6,0.241379,0.318254,0,1,5,8,1,1,0.040695,0,0.857143,0
+149,Daughter of Sheikh Farhate ben Said,,,Woman,Algerian,Referenced,,1,1,2,0.666667,0.75,0,0,15,19,0,0,0.006892,0,2,0
+82,Ibrahim-Bou-Seba,,براهم باي بو اصبع,Man,Ottoman,Named,,1,1,2,0.666667,0.75,0,0,15,19,0,0,0.006892,0,2,0
+150,Son1 of Ahmed-El-Kolli,,,Man,Ottoman,Referenced,,3,3,5,0.333333,0.388095,0,1,6,3,1,3,0.318259,0,0.734266,0
+151,Son2 of Ahmed-El-Kolli,,,Man,Ottoman,Referenced,,3,3,5,0.333333,0.388095,0,1,6,3,1,3,0.318259,0,0.734266,0
+152,Son3 of Ahmed-El-Kolli,,,Man,Ottoman,Referenced,,3,3,5,0.333333,0.388095,0,1,6,3,1,3,0.318259,0,0.734266,0
+155,Son2 of Salah Bey,,,Man,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+156,Son3 of Salah Bey,,,Man,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+157,Daughter3 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+158,Daughter4 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+159,Daughter5 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+160,Daughter6 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+161,Daughter7 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+162,Daughter8 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+163,Daughter9 of Salah Bey,,,Woman,Ottoman-European,Referenced,,1,1,5,0.365217,0.405556,0,0,6,17,0,0,0.201431,0,20,0
+11,Mohammed-N'amane-Bey,,محمد نعمان باي بن علي,Man,Ottoman,Named,,0,0,0,0,0,0,0,16,20,0,0,0,0,0,0
+29,Ahmed-Bey le Mamlouk,,أحمد باي بن عبد الله المملوك,Man,European,Named,,0,0,0,0,0,0,0,17,21,0,0,0,0,0,0
+30,Ali Ben Youssef Bey ,,,Man,Ottoman,Named,,0,0,0,0,0,0,0,18,22,0,0,0,0,0,0
+45,Hussein-Chaouch Bey        ,,حيسين شاوش,Man,Unknown,Named,,0,0,0,0,0,0,0,19,23,0,0,0,0,0,0
+47,Hossein Denguezli Bey,,حسين دنجزلي باي,Man,Ottoman,Named,,0,0,0,0,0,0,0,20,24,0,0,0,0,0,0
+48,Ahmed-Chaouch,,أحمد شاوش القبايلي,Man,Ottoman,Named,,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0
+61,Mohammed,,,Man,Kulughlu,Named,,0,0,0,0,0,0,0,22,26,0,0,0,0,0,0
+64,Ahmed-Tobbal,, أحمد طوبال باي,Man,Ottoman,Named,,0,0,0,0,0,0,0,23,27,0,0,0,0,0,0
+65,Hassen,,,Man,Ottoman,Named,,0,0,0,0,0,0,0,24,28,0,0,0,0,0,0
+67,M’hammed-Manamanni,, محمد محمدي باي بن خان,Man,Ottoman,Named,,0,0,0,0,0,0,0,25,29,0,0,0,0,0,0
+68,Mohammed bey El-Mili Ben Daoud,,محمد باي بن داود الميلي بوشطابي,Man,Ottoman,Named,,0,0,0,0,0,0,0,26,30,0,0,0,0,0,0
+85,Braham-Bey-El-Rarbi,, إبراهيم خوجة باي الغربي ,Man,Ottoman,Named,,0,0,0,0,0,0,0,27,31,0,0,0,0,0,0
+86,Kara-Moustafa,, قارة مصطفى باي,Man,Ottoman,Named,,0,0,0,0,0,0,0,28,32,0,0,0,0,0,0
+130,Wife of Ali-Pacha El Tunisi,,,Woman,Tunisian,Inference,,0,0,0,0,0,0,0,29,33,0,0,0,0,0,0
+135,Wife of M’hammed-Tchaker-Bey,,,Woman,Algerian,Inference,,0,0,0,0,0,0,0,30,34,0,0,0,0,0,0
