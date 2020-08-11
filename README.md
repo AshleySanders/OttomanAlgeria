@@ -7,10 +7,10 @@ The *OttAlg-NetData* contains the nodes and edges lists as CSV files for the Ott
 
 ## Citations
 **Please cite the "Ottoman-Algeria-Constantine_Governors-Data" data set as follows:** <br></br>
-Ashley Sanders Garcia, “Governors of Ottoman Constantine, Algeria, 1567-1837,” data set, <https://github.com/AshleySanders/OttomanAlgeria> (7 October 2019).
+Ashley R. Sanders, “Governors of Ottoman Constantine, Algeria, 1567-1837,” data set, <https://github.com/AshleySanders/OttomanAlgeria> (7 October 2019).
 
 **Please cite "OttAlg-Edges" and "OttAlg-Nodes" social network data as follows:** <br></br>
-Ashley Sanders Garcia, “Social Network of Ottoman Constantine, Algeria, 1567-1837,” data set, <https://github.com/AshleySanders/OttomanAlgeria> (21 October 2019).
+Ashley R. Sanders, “Social Network of Ottoman Constantine, Algeria, 1567-1837,” data set, <https://github.com/AshleySanders/OttomanAlgeria> (21 October 2019).
 
 
 ## Data Sources
