@@ -1,0 +1,47 @@
+index,name,start_date,end_date,start_year,end_year,tenure_years,Assassinated,simplest_fate,simplified_fate,fate_original,origin,local_wife,prior_leadership,experience_type,era
+0,Ramdane-Tchoulak Bey,1-1-1567,1-1-1574,1567,1574,7,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Reassigned,Ottoman,NA,NA,NA,1
+1,Djaafar Bey,1-1-1574,1-1-1588,1574,1588,14,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Reassigned,Ottoman,NA,NA,NA,1
+2,Mohammed Ben Ferhat Bey,1-1-1588,1-1-1608,1588,1608,20,Not_Assassinated,Killed in battle,Died in Office,Killed in battle,Algerian,NA,NA,NA,1
+3,Hassan Bey,1-1-1608,1-1-1622,1608,1622,14,Not_Assassinated,Non-Violent Fate,Died in Office,Died of illness,Ottoman,NA,NA,NA,1
+4,Mourad Bey,1-1-1622,1-1-1647,1622,1647,25,Not_Assassinated,Killed in battle,Died in Office,Died of illness,Ottoman,0,1,Janissary,1
+5,Ferhat Bey,1-1-1647,1-1-1653,1647,1653,6,Not_Assassinated,Non-Violent Fate,Died in Office,Died of illness,Ottoman,0,NA,NA,1
+6,Mohammed Bey ben Ferhat,1-1-1653,1-1-1666,1653,1666,13,Not_Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,1,NA,NA,1
+7,Redjeb Bey ben Ferhat,10-1-1666,1-1-1672,1666,1672,6,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Dismissed,Ottoman,1,NA,NA,1
+8,Kheir ed-din Bey,1-1-1672,4-1-1676,1672,1676,3,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Dismissed,NA,1,1,NA,1
+9,Abd-el-Rahman Dali Bey,4-1-1676,1-1-1679,1676,1679,3,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,1,Janissary,1
+10,Omar ben Abd-el Rahman,1-1-1679,8-1-1688,1679,1688,9,Not_Assassinated,Non-Violent Fate,Died in Office,Died in office,Ottoman,NA,1,Bash-Agha,1
+11,Sid-Chaban Bey,8-1-1688,1-1-1692,1688,1692,4,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Dismissed,Ottoman,NA,NA,NA,1
+12,Ali Khudja Bey,1-1-1692,1-1-1700,1692,1700,8,Not_Assassinated,Killed in battle,Died in Office,Killed in battle,Ottoman,NA,NA,NA,1
+13,Ahmed Bey ben Ferhat,1-1-1700,1-1-1703,1700,1703,3,Assassinated,Willful Violent Removal,Assassinated,Exiled and Assassinated,Kulughlu,NA,NA,NA,1
+14,Ibrahim Bey El Euldj,1-1-1703,1-1-1707,1703,1707,4,Assassinated,Willful Violent Removal,Assassinated,Assassinated,European,NA,NA,NA,1
+15,Hamouda Bey,1-1-1707,1-1-1708,1707,1708,0.5,NA,NA,NA,NA,Algerian,1,NA,NA,1
+16,Ali Bey ben Hamouda,1-1-1708,1-1-1708,1708,1708,0.5,NA,NA,NA,NA,Algerian,NA,NA,NA,1
+17,Hussein-Chaouch Bey,1-1-1709,1-1-1710,1709,1710,1,NA,NA,NA,NA,NA,NA,1,Chaouche,1
+18,Abd-el Rahman ben Ferhat Bey,1-1-1710,4-1-1710,1710,1710,0.333333333,NA,Non-Violent Fate,NA,NA,NA,NA,NA,NA,1
+19,Hossein Bey,4-1-1710,8-1-1710,1710,1710,0.333333333,Not_Assassinated,NA,Abandoned office,Abandoned office,Kulughlu,NA,NA,NA,1
+20,Ali ben Sala Bey,8-1-1710,1-1-1713,1710,1713,3,Not_Assassinated,Non-Violent Fate,Abandoned office,Abdicated,Ottoman,1,NA,NA,1
+21,Kelian-Hussein,1-1-1713,1-1-1736,1713,1736,23,Not_Assassinated,Non-Violent Fate,Died in Office,Died in office,Ottoman,1,1,Military general,1
+22,Hasssen Bey Ben Hussein,1-1-1736,1-1-1754,1736,1754,18,Not_Assassinated,Non-Violent Fate,Died in Office,Died in office,Ottoman,1,NA,NA,1
+23,Hossein Bey,1-1-1754,1-1-1756,1754,1756,2,Not_Assassinated,Non-Violent Fate,Died in Office,Died of illness,Ottoman,1,1,Khalifa,1
+24,Ahmed Bey Ben Ali,1-1-1756,1-1-1771,1756,1771,15,Not_Assassinated,Non-Violent Fate,Died in Office,Died of illness,Ottoman,2,1,Janissary officer,1
+25,Salah Bey,1-1-1771,9-1-1792,1771,1792,21,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,2,1,Caid al-Awasi,2
+26,Ibrahim Bey,9-1-1792,9-4-1792,1792,1792,0.008219178,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,NA,NA,2
+27,Hussein Bey ben Bou Hanek,9-4-1792,1-30-1795,1792,1795,3,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Kulughlu,NA,1,Caid,2
+28,Moustapha ben Soliman El-Ouznadji,2-1-1795,1-1-1798,1795,1798,3,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,1,1,Bey,2
+29,Hadj-Mustapha Ben Hossein-Ingliz,1-1-1798,5-1-1803,1798,1803,5,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Exiled,Ottoman,1,1,Khalifa,2
+30,Osman Bey Ben Mohammed,5-1-1803,11-1-1804,1803,1804,1,Not_Assassinated,Killed in battle,Died in Office,Killed in battle,Kulughlu,NA,1,Bey,2
+31,Abd-Allah Bey Ben Ismail,11-1-1804,12-1-1806,1804,1806,2,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,1,NA,NA,2
+32,Hussein Bey ben Salah Bey,12-1-1806,7-1-1807,1806,1807,1,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Kulughlu,NA,0,None,2
+33,Ali Ben Youssef Bey,8-1-1807,9-1-1808,1807,1808,1,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,1,Janissary,2
+34,Ahmed Chaouche,9-1-1808,9-15-1808,1808,1808,0.04109589,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,1,Chaouche,2
+35,Ahmed Tobbal,9-15-1808,1-1-1811,1808,1811,3,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,1,Khalifa,2
+36,Mohammed Naman Bey Ben-Ali,1-1-1811,1-1-1814,1811,1814,3,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,1,1,Khalifa,2
+37,Mohammed Tchakar Bey,1-1-1814,6-1-1818,1814,1818,4.5,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,1,1,Janissary officer,2
+38,Kara Mustapha,6-1-1818,7-1-1818,1818,1818,0.083333333,Assassinated,Non-Violent Fate,Assassinated,Assassinated,Ottoman,NA,1,Chaouche,2
+39,Ahmed Bey El Mamelouk Ben Abd-Allah,1-1-1818,7-1-1818,1818,1818,0.5,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Reinstated,European,NA,1,Bey,2
+40,Mohammed bey El-Mili Ben Daoud,7-1-1818,6-1-1819,1818,1819,1,Not_Assassinated,Willful Violent Removal,Non-violent Removal,Exiled,Ottoman,NA,1,Caid al-Awasi,2
+41,Ibraham Bey El-Gharbi,6-1-1819,7-1-1820,1819,1820,1,Assassinated,Willful Violent Removal,Assassinated,Assassinated,Ottoman,NA,1,Bey,2
+42,Ahmed Bey El Mamelouk Ben Abd-Allah,7-1-1820,1-1-1822,1820,1822,2,Assassinated,Willful Violent Removal,Assassinated,Exiled and Assassinated,European,NA,1,Bey,2
+43,Ibrahim Bey Ben Ali El-Critli,1-1-1822,1-1-1824,1822,1824,2,Assassinated,Willful Violent Removal,Assassinated,Exiled and Assassinated,Ottoman,1,1,Caid al-Awasi,2
+44,Mohammed Manamli,1-1-1824,1-1-1826,1824,1826,2,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Exiled,Ottoman,NA,1,Janissary,2
+45,Ahmed Bey,1-1-1826,11-1-1837,1826,1837,11,Not_Assassinated,Willful Violent Removal,Willful Violent Removal,Dethroned by French,Kulughlu,7,1,Caid al-Awasi,2
