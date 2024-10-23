@@ -1,4 +1,4 @@
-index,name,start_date,end_date,start_year,end_year,tenure_years,Assassinated,simplest_fate,simplified_fate,fate_original,origin,local_wife,prior_leadership,experience_type,era
+index,name,start_date,end_date,start_year,end_year,tenure_years,assassinated,simplest_fate,simplified_fate,fate_original,origin,local_wife,prior_leadership,experience_type,era
 0,Ramdane-Tchoulak Bey,1-1-1567,1-1-1574,1567,1574,7,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Reassigned,Ottoman,NA,NA,NA,1
 1,Djaafar Bey,1-1-1574,1-1-1588,1574,1588,14,Not_Assassinated,Non-Violent Fate,Non-violent Removal,Reassigned,Ottoman,NA,NA,NA,1
 2,Mohammed Ben Ferhat Bey,1-1-1588,1-1-1608,1588,1608,20,Not_Assassinated,Killed in battle,Died in Office,Killed in battle,Algerian,NA,NA,NA,1
